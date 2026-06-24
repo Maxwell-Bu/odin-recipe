@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(50, 215, 174);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    display: block;
+    border: 5px solid rgb(215, 111, 50);
+    width: 250px;
+    margin: 0 auto;
+}
+
+p {
+    background-color: rgb(166, 166, 255);
+    border: 3px solid rgb(29, 63, 255);
+    color: black;
+
+    margin: 20px 0;
+    font-family: Helvetica, sans-serif;
+
+}
+
+h2 {
+    text-align: center;
+    border: 3px dashed red;
+    background-color: aliceblue;
+
+    width: 300px;
+    margin: 0 auto;
+    font-family: "Times New Roman", "Comic Sans", serif;
+}
+
+
+li {
+    font-weight: 600;
+    color: rgb(0, 102, 87);
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+#home {
+    display: block;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 auto;
+
+}
